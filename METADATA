@@ -9,11 +9,11 @@ third_party {
     type: GIT
     value: "https://github.com/Maratyszcza/psimd"
   }
-  version: "88882f601f8179e1987b7e7cf4a8012c9080ad44"
+  version: "85427dd4c8521cc037a1ffa6fcd25c55fafc8a00"
   license_type: NOTICE
   last_upgrade_date {
     year: 2020
-    month: 2
-    day: 21
+    month: 4
+    day: 17
   }
 }
